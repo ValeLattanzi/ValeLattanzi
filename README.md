@@ -1,3 +1,5 @@
 - 👋 @ValeLattanzi
-- 👀 Estoy Interesado en el desarrollo de aplicaciones multplataforma
-- 🌱 Actualmente estudiante Ingeniería Informática
+- 🎯 Estoy Interesado en el desarrollo de aplicaciones multiplataforma
+- 💻 .NET developer
+- 🌐 React developer
+- 🌱 Actualmente estudiante Ingeniería en Sistemas de Información
