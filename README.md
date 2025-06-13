@@ -5,8 +5,6 @@
 ## Knowledge
 - 🌱 Currently studying Information Systems Engineering.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ValeLattanzi&theme=yeblu&show_icons=true&hide_border=true&layout=compact)
-
 ### Skills
 
 🖥️ **Programming Languages**
